@@ -1,6 +1,7 @@
 # API Python BDD framework test case
 # Standalone thinking-tester-contact-list.herokuapp executable Python API test case
 AddNewUser is meant to be executable Python BDD test case, used by QA engineers to succesfully execute this test.
+This page will be tested: https://thinking-tester-contact-list.herokuapp.com/
 
 Add contact to contact list tests:
 - AddNewUser
